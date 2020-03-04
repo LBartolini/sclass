@@ -10,7 +10,7 @@ setup(
     author='Lorenzo Bartolini',
     author_email='l.bartolini02@gmail.com',
     py_modules=['sclass'],
-    package_dir={'':'src'},
+    package_dir={'.':'src'},
     classifiers=[
         "Programming Language :: Python :: 3.6",
         "Operating System :: OS Independent"
