@@ -5,8 +5,8 @@ with open("README.md", "r") as f:
 
 setup(
     name='sclass',
-    version='0.0.1',
-    description='Basic class from witch to inherit other classes',
+    version='0.0.2',
+    description='Basic class used as a SuperClass for other classes',
     author='Lorenzo Bartolini',
     author_email='l.bartolini02@gmail.com',
     py_modules=['sclass'],
